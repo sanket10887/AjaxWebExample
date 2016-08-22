@@ -26,6 +26,9 @@ public class UploadFile extends HttpServlet {
      * Default constructor. 
      */
     public UploadFile() {
+    	
+    	
+    	System.out.println("fileupload...");
     }
 
 	/**
